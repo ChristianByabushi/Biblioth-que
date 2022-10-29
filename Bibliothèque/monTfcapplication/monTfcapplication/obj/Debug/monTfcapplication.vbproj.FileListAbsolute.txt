@@ -1,0 +1,16 @@
+E:\DOC CHRIS\MonTFCAapplication\monTfcapplication\monTfcapplication\bin\Debug\monTfcapplication.exe
+E:\DOC CHRIS\MonTFCAapplication\monTfcapplication\monTfcapplication\bin\Debug\monTfcapplication.pdb
+E:\DOC CHRIS\MonTFCAapplication\monTfcapplication\monTfcapplication\bin\Debug\monTfcapplication.xml
+E:\DOC CHRIS\MonTFCAapplication\monTfcapplication\monTfcapplication\obj\Debug\monTfcapplication.Form1.resources
+E:\DOC CHRIS\MonTFCAapplication\monTfcapplication\monTfcapplication\obj\Debug\monTfcapplication.Resources.resources
+E:\DOC CHRIS\MonTFCAapplication\monTfcapplication\monTfcapplication\obj\Debug\monTfcapplication.vbproj.GenerateResource.Cache
+E:\DOC CHRIS\MonTFCAapplication\monTfcapplication\monTfcapplication\obj\Debug\monTfcapplication.exe
+E:\DOC CHRIS\MonTFCAapplication\monTfcapplication\monTfcapplication\obj\Debug\monTfcapplication.xml
+E:\DOC CHRIS\MonTFCAapplication\monTfcapplication\monTfcapplication\obj\Debug\monTfcapplication.pdb
+E:\DOC CHRIS\MonTFCAapplication\monTfcapplication\monTfcapplication\obj\Debug\monTfcapplication.formUtilisateur.resources
+E:\DOC CHRIS\MonTFCAapplication\monTfcapplication\monTfcapplication\bin\Debug\MySql.Data.dll
+E:\DOC CHRIS\MonTFCAapplication\monTfcapplication\monTfcapplication\obj\Debug\monTfcapplication.formLivre.resources
+E:\DOC CHRIS\MonTFCAapplication\monTfcapplication\monTfcapplication\obj\Debug\monTfcapplication.formEmprunt.resources
+E:\DOC CHRIS\MonTFCAapplication\monTfcapplication\monTfcapplication\obj\Debug\monTfcapplication.formDepot.resources
+E:\DOC CHRIS\MonTFCAapplication\monTfcapplication\monTfcapplication\bin\Debug\monTfcapplication.exe.CodeAnalysisLog.xml
+E:\DOC CHRIS\MonTFCAapplication\monTfcapplication\monTfcapplication\bin\Debug\monTfcapplication.exe.lastcodeanalysissucceeded
